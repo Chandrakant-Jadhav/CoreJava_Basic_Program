@@ -15,6 +15,9 @@ public class Firstclass {
 		
 		Firstclass obj=new Firstclass();
 		obj.getData();
+		
+		secondClass sc=new secondClass();
+		sc.setData();
 
 	}
 
