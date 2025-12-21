@@ -1,6 +1,6 @@
 package day6;
 
-public class TeoDimentionalArray {
+public class TwoDimentionalArray {
 
 	public static void main(String[] args) {
 	
