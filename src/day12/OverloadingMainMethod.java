@@ -25,8 +25,9 @@ public class OverloadingMainMethod {
 		obj.main(100);
 		obj.main("Hello");
 		obj.main("Hello", "QA CJ");
-	
 
 	}
+	
+	
 
 }
