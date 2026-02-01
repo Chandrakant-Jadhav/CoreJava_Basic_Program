@@ -25,19 +25,15 @@ class Child2 extends Parent {
 }
 
 
-
-
 public class HierarchyInheritance {
 	public static void main(String[] args) {
 		Child1 obj1 = new Child1();
 		obj1.display(100); // calling parent class method
 		obj1.show(200); // calling child1 class method
 		
-		
 		Child2 obj2= new Child2();
 		obj2.display(300); // calling parent class method
 		obj2.print(400); // calling child2 class method
 	}
 	
-
 }
