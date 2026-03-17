@@ -12,10 +12,10 @@ public class nestedForLoop {
 			{
 				System.out.println("Inner loop ");
 			}
+			
 			System.out.println("Outer loop ended");
 		}
 		
-
 	}
 
 }
